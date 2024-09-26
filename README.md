@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Den100135
-- 👀 I’m interested in codeing and 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Den100135/Den100135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in codeing minecraft plugins and mods,soldering circuits
+- 🌱 I’m currently learning Java and Ardunio
+- 💞️ I’m collaborating whith RomFelix
+- 📫 How to reach me:
+- Telegramm:https://t.me/denis100_0
+- Discord:den100
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: When I was 12 I writed my first circut.
